@@ -1,5 +1,6 @@
 # Playground
-## Courses I'm planning to take this semester include Artificial Intelligence, Linear Models, and Intro to Data Science.
+Kristen Grabarz is planning to take Artificial Intelligence, Linear Models, and Intro to Data Science this semester.
+
 
 A place to play with `git`.
 
