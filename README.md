@@ -1,4 +1,4 @@
-# PlaygroundBreaking Title Change v2
+# Playground Final
 
 A place to play with `git`.
 
